@@ -5,7 +5,7 @@ Software engineer who builds **games and interactive 3D experiences**: C++ gamep
 ### What I'm working on
 - 🎮 **[Dashdle](https://dashdle.com)**: co-developer of a live Geometry Dash difficulty-guessing game (~1,500 visits/day). I built Endless Mode.
 - 🥽 **VR Industrial Training Platform**: a VR simulation that teaches hands-on maintenance procedures (a full engine oil change today; generator fault diagnosis and lockout/tagout next).
-- 🌐 **IT Society website**: a custom full-stack site with a Notion API integration that publishes blog posts automatically.
+- 🌐 **[itsociety.org](https://itsociety.org)**: rebuilt the nonprofit's site as a fast static Astro/TypeScript site, with a Notion API sync so the team publishes events without a CMS.
 
 ### Featured projects
 | Project | What it is | Stack |
@@ -17,7 +17,7 @@ Software engineer who builds **games and interactive 3D experiences**: C++ gamep
 ### Tech
 **Languages:** C++ · C# · Python · Java · JavaScript · SQL
 **Game dev:** Unreal Engine 5 · Unity · VR
-**Web:** React · Next.js · Node.js · REST APIs
+**Web:** TypeScript · React · Next.js · Astro · Node.js · REST APIs
 
 ### Find me
 [LinkedIn](https://linkedin.com/in/sevki-zen-kiymaci) · sevki.2003.unutmaz@gmail.com
